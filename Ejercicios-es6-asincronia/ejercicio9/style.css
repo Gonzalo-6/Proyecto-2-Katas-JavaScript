@@ -1,0 +1,12 @@
+  body {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 20px;
+    background: #a3cbed;
+  }
+
+  .random-image {
+    max-width: 300px;
+    height: auto;
+    margin-top: 30px;
+  }
